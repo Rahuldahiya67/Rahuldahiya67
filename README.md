@@ -17,8 +17,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/rahuldahiya06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rahuldahiya06" height="30" width="40" /></a>
+<a href="https://twitter.com/@rahuldahiya06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@rahuldahiya06" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/rahul-dahiya-466323165" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rahul-dahiya-466323165" height="30" width="40" /></a>
+<a href="https://instagram.com/__chivalryisnotdead__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__chivalryisnotdead__" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
