@@ -29,6 +29,6 @@
 <p><a href="https://www.buymeacoffee.com/rahuldahiyt"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="rahuldahiyt" /></a></p><br><br>
 
 <h3 align="left">Stats:</h3>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=rahuldahiya67&show_icons=true&locale=en" alt="rahuldahiya67" /></p><br><br><br><br><br><br><br>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=rahuldahiya67&show_icons=true&locale=en" alt="rahuldahiya67" /></p><br><br><br><br><br><br><br><br>
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=rahuldahiya67&" alt="rahuldahiya67" /></p>
