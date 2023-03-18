@@ -1,4 +1,4 @@
-[![MasterHead](https://camo.githubusercontent.com/1954ad5cc5ee583976375037cee1b6c2409cb2223209fbc5d6cce8f978462486/68747470733a2f2f63646e2d696d616765732d312e6d656469756d2e636f6d2f6d61782f313030302f312a574934336570486a6c364936467a4256507a765841512e676966)](https://rahuldahiya67.io)
+[&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ![MasterHead](https://media.licdn.com/dms/image/C5622AQGa3RL8Cm1ihw/feedshare-shrink_800/0/1668752978513?e=1681948800&v=beta&t=S4Indf7Jgo8AkOzYnjETkTdg1t9yKXPLAyMV8BSVdqw)](https://rahuldahiya67.io)
 <h1 align="center">Hi 👋, I'm Rahul</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.sanity.io/images/ordgikwe/production/a830c5182852e35bcd0dc07b90122f07ecd15f48-700x525.gif?w=700&h=525&auto=format">
