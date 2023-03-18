@@ -1,5 +1,5 @@
 <div align="center" style="display: flex; justify-content: center;">
-  <img  alt="Coding" width="700" src="https://media.licdn.com/dms/image/C5622AQGa3RL8Cm1ihw/feedshare-shrink_800/0/1668752978513?e=1681948800&v=beta&t=S4Indf7Jgo8AkOzYnjETkTdg1t9yKXPLAyMV8BSVdqw">
+  <img  alt="Coding" width="1050" height="300" src="https://media.licdn.com/dms/image/C5622AQGa3RL8Cm1ihw/feedshare-shrink_800/0/1668752978513?e=1681948800&v=beta&t=S4Indf7Jgo8AkOzYnjETkTdg1t9yKXPLAyMV8BSVdqw">
 </div>
 
 <h1 align="center">Hi 👋, I'm Rahul</h1>
