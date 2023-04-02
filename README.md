@@ -1,6 +1,8 @@
-<div align="center" style="display: flex; justify-content: center;">
-  <img  alt="Coding" width="1050" height="300" src="https://imgs.search.brave.com/6-XDrrlKEruXp4IbOE2vfZ5Y34ySTAAUz7wDesuTPm4/rs:fit:500:281:1/g:ce/aHR0cHM6Ly9tZWRp/YTAuZ2lwaHkuY29t/L21lZGlhL3NSRkVh/OGxiZUM3emJjSVpa/Ui9zb3VyY2UuZ2lm.gif">
-</div>
+<p align="center">
+  <img src="image2vector.svg" alt="Your Name" width="300" height="100">
+</p>	
+<img src="waves.svg" alt="Waves" width="100%" height="150">
+
 
 <h1 align="center">Hi 👋, I'm Rahul</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
