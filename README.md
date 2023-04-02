@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="image2vector.svg" alt="Your Name" width="300" height="100">
+  <img src="image2vector (1).svg" alt="Your Name" width="300" height="100">
 </p>	
 <img src="waves.svg" alt="Waves" width="100%" height="150">
 
