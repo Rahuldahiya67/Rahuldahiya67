@@ -4,67 +4,36 @@
 <img src="waves.svg" alt="Waves" width="100%" height="150">
 
 
-### Hey 👋🏼 , I'm Rahul
-I'm a Deep Learning Engineer having an academic background in Computer Science.  I :heart: Open Source and passionate about solving complicated problems and creating software solutions :robot:.
+<h1 align="center">Hi Visitor, I'm Rahul</h1>
+<h3 align="center">A passionate Data Scientist from India</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.sanity.io/images/ordgikwe/production/a830c5182852e35bcd0dc07b90122f07ecd15f48-700x525.gif?w=700&h=525&auto=format">
 
-<!-- Light Mode -->
-<div align="center"> 
-<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-<img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=zohebabai&layout=compact&langs_count=10&hide=jupyter%20notebook&hide_border=true&role=owner,collaborator&theme=default#gh-light-mode-only" alt="Zoheb Abai's Language stats" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-<img height=200 src="https://github-readme-stats.vercel.app/api?username=zohebabai&show_icons=true&count_private=true&line_height=28&hide_border=true&card_width=347&include_all_commits=true&role=owner,collaborator&theme=default&hide_rank=true#gh-light-mode-only" alt="Zoheb Abai's Github stats" />
-</a>
-</div>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rahuldahiya67&label=Profile%20views&color=0e75b6&style=flat" alt="rahuldahiya67" /> </p>
 
-<!-- Dark Mode -->
-<div align="center"> 
-<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-<img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=zohebabai&layout=compact&langs_count=10&hide=jupyter%20notebook&hide_border=true&role=owner,collaborator&theme=dark&bg_color=000000#gh-dark-mode-only" alt="Zoheb Abai's Language stats" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-<img height=200 src="https://github-readme-stats.vercel.app/api?username=zohebabai&show_icons=true&count_private=true&line_height=28&hide_border=true&card_width=347&include_all_commits=true&role=owner,collaborator&theme=dark&bg_color=000000&hide_rank=true#gh-dark-mode-only" alt="Zoheb Abai's Github stats" />
-</a>
-</div>
+<p align="left"> <a href="https://twitter.com/rahuldahiya06" target="blank"><img src="https://img.shields.io/twitter/follow/rahuldahiya06?logo=twitter&style=for-the-badge" alt="rahuldahiya06" /></a> </p>
 
-<br/>
+- 🔭 I’m currently working on **NLP Project**
 
-<p align="center">
-<a href="mailto:aglauocnv@relay.firefox.com"><img src="https://img.icons8.com/ios-filled/36/000000/gmail.png"/></a>
-<a href="https://dev.to/zohebabai">
-  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Zoheb Abai's DEV Profile" height="36" width="36">
-</a>
-<a href= "https://www.linkedin.com/in/zohebabai/"><img src="https://img.icons8.com/ios-glyphs/36/000000/linkedin.png"/></a>
-<a href= "https://medium.com/@zohebabai"><img src="https://img.icons8.com/ios-filled/36/000000/medium.png"/></a>
-<a href= "https://www.youtube.com/channel/UC_yI6oXBH8zIRqxwRT2uu6g"><img src="https://img.icons8.com/ios-filled/36/000000/youtube.png"/></a>
+- 💬 Ask me about **NLP, Machine learning**
+
+- 📫 How to reach me **rahuldahiya67@gmail.com**
+
+- ⚡ Fun fact **I say no to tea & coffee.**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/rahuldahiya06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rahuldahiya06" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/rahul-dahiya-466323165" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rahul-dahiya-466323165" height="30" width="40" /></a>
+<a href="https://instagram.com/__chivalryisnotdead__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__chivalryisnotdead__" height="30" width="40" /></a>
 </p>
 
-## <a><img src="https://img.icons8.com/ios-filled/24/000000/web.png"/></a> Featured Micro Projects
-* [YOLOS Demo (Balloons) App](https://huggingface.co/spaces/zoheb/yolos_demo) - **Deep Learning | Transformer | Streamlit | HF Spaces | Open Source | Autumn 2022**
-* [Segmformer Demo (Sidewalk) App](https://huggingface.co/spaces/zoheb/segformer_demo) - **Deep Learning | Transformer | Gradio | HF Spaces | Open Source | Autumn 2022**
-* [Ratings Reliability Measure App](https://ratings-reliability-app.herokuapp.com/) - **Statistics | Python | Streamlit | Heroku | Summer 2021** 
-* [Whats going on in the Picture? App](https://whats-going-on-in-the-picture.herokuapp.com/) - **Python | Deep Learning | Django | Heroku | Open Source | Summer 2020**
-* [Colab Auto Reconnect Browser Extension](https://zohebabai.github.io/Colab_Auto_Reconnect/) - **HTML-CSS-JS | Colab | Chrome/Firefox Extensions | Open Source | Summer 2019**
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-## <a><img src="https://img.icons8.com/ios-filled/24/package.png"/> Featured Packages
-* [Focal Frequency Loss](https://pypi.org/project/tf-focal-frequency-loss/) - **Displays increased performance in Generational Models**
-* [Gazebo ROS L515](https://github.com/ZohebAbai/gazebo_ros_l515) - **Simulated Realsense L515 sensor with ROS in Gazebo** [Video](https://youtu.be/KoQNH7YahN8)
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/rahuldahiyt"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="rahuldahiyt" /></a></p><br><br>
 
-## <a><img src="https://img.icons8.com/ios-filled/24/000000/blog.png"/> Featured Articles
-* [Wild Wild RAG… (Part 1)](https://pub.towardsai.net/wild-wild-rag-part-1-42848c907499)
-* [What’s in the Controversial Article that Forced Timnit Gebru Out of Google?](https://pub.towardsai.net/on-the-dangers-of-stochastic-parrots-summarized-7eb370bc3d7b)
-* [Boost your Colab Notebooks with GCP and AWS Instance in a few minutes](https://zohebabai.medium.com/boost-your-colab-notebooks-with-gcp-and-aws-instance-within-a-few-minutes-a43ed37cd06d)
-* [Top 10 Deep Learning Breakthroughs — Deep Reinforcement Learning](https://medium.com/the-innovation/top-10-deep-learning-breakthroughs-deep-reinforcement-learning-d2307ed8c27)
+<h3 align="left">Stats:</h3>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=rahuldahiya67&show_icons=true&locale=en" alt="rahuldahiya67" /></p><br><br><br><br><br><br><br><br>
 
-
-## <a><img src="https://img.icons8.com/ios-filled/24/000000/repository.png"/> Featured Coursework Notebooks
-* [Mobile Sensing and Robotics - Updated 2021](https://github.com/ZohebAbai/mobile_sensing_robotics)
-* [Machine Learning Fundamentals - Archived 2018](https://github.com/ZohebAbai/DSE220x)
-* [Statistics and Probability in Data Science using Python - Archived 2018](https://github.com/ZohebAbai/DSE210x)
-
-
-## <a><img src="https://img.icons8.com/ios-filled/24/000000/home-office--v2.png"/> My Tech Stack
-<a><img src="https://img.icons8.com/color/32/000000/python.png"/> <a><img src="https://img.icons8.com/color/32/000000/console.png"/> <a><img src="https://img.icons8.com/color/32/000000/c-plus-plus-logo.png"/> <a><img src="https://pytorch.org/assets/images/pytorch-logo.png" width="32" height="32"/> <a><img src="https://img.icons8.com/color/32/000000/tensorflow.png"/> <a><img src="https://colab.research.google.com/img/colab_favicon_256px.png" width="32" height="32"/> <a><img src="https://img.icons8.com/color/32/000000/visual-studio-code-2019.png"/> <a><img src="https://img.icons8.com/color/32/000000/git.png"/> <a><img src="https://img.icons8.com/color/32/000000/django.png"/> <a><img src="https://img.icons8.com/color/32/000000/javascript.png"/> <a><img src="https://img.icons8.com/color/32/000000/html-5.png"/> <a><img src="https://img.icons8.com/color/32/000000/css3.png"/> <a><img src="https://img.icons8.com/color/32/000000/sql.png"/> <a><img src="https://img.icons8.com/color/32/000000/docker.png"/> <a><img src="https://img.icons8.com/color/32/000000/amazon-web-services.png"/> <a><img src="https://img.icons8.com/color/32/000000/google-cloud-platform.png"/> <a><img src="https://raw.githubusercontent.com/isl-org/Open3D/master/docs/_static/open3d_logo_horizontal.png" width="96" height="32"/> <a><img src="https://upload.wikimedia.org/wikipedia/commons/7/7a/ROS_cat.png" width="48" height="32"/>
-
-## <a><img src="https://img.icons8.com/ios-filled/24/keyboard.png"/> Working On
-* [ServifAI](https://github.com/ZohebAbai/servifai)
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=rahuldahiya67&" alt="rahuldahiya67" /></p>
